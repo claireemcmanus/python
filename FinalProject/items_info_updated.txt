@@ -1,0 +1,16 @@
+apple,1.0,100,0.0,False
+banana,0.5,200,10.0,False
+chocolate,2.0,50,0.0,True
+desk,200.0,5,20.0,True
+electric kettle,150.0,10,0.0,True
+flower,3.5,200,0.0,True
+garlic,0.7,300,0.0,False
+hair dryer,80.0,2,30.0,True
+ice cream,4.0,387,0.0,True
+jacket,50.0,50,5.0,True
+kiwi,4.2,20,0.0,False
+lemon,0.7,100,0.0,False
+macaroon,3.2,20,10.0,True
+nail polish,7.5,10,0.0,True
+orange,1.5,150,15.0,False
+watermelon,7.8,47,0.0,False
